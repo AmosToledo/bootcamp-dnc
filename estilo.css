@@ -1,6 +1,5 @@
-<style>
-       
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+     
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
    
     :root {
         --azul-dnc: #0c70f2;
@@ -13,7 +12,7 @@
 body {
     margin: 0px; /* margem externa*/
     padding: 0px; /* margem interna */
-    background: linear-gradient(180deg, blue 19.91%, black 24.84%); #303030;
+    background: linear-gradient(180deg, blue 19.91%, black 24.84%) #303030;
     background-repeat: no repeat;
    
 }
@@ -215,7 +214,7 @@ section{
         display: flex;
         justify-content: center;
         height: 0px;
-        padding: 10px:
+        padding: 10px;
      }
      footer .linha2 a {
         font-family: 'inter';
@@ -273,6 +272,4 @@ section{
         .checkbox-itens label {
             font-size: 17px;
         }
-
     }
-</style>
